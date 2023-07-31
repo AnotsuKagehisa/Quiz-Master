@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7570fdddd19d784f8d5ba0fdcce4cfb, type: 3}
+  m_Name: New Question 5
+  m_EditorClassIdentifier: 
+  question: "Hacker olan Utku ne zaman en b\xFCy\xFCk darbesini vurmu\u015Ftur d\xFCnya
+    tarihinde?"
+  answers:
+  - "K\xFCrt-Afkan ticareti hacking"
+  - Ananymous site hacking
+  - "Emans'\u0131n babanesinin emekli maa\u015F\u0131 hacking"
+  - "Do\u011Fukan'\u0131n ailesi var m\u0131 hacking"
+  correctAnswerIndex: 3
